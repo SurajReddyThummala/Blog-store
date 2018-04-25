@@ -1,25 +1,23 @@
-# ReduxSimpleStarter.
+React - Redux Blog post Web App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+API https://reduxblog.herokuapp.com/api/posts was used to fetch the data
 
-### Getting Started
+Axios used as redux promise to handle API request
 
-There are two methods for getting started with this repo.
+Redux is used to store the state of the user.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+user can add delete visit the post
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+RestFul routing has been implemented in this project.
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+SET-UP:
 
-```
-> npm install
-> npm start
-```
+git clone https://github.com/SurajReddyThummala/Blog-store.git
+
+npm install
+
+npm start
+
+visit localhost:8080 on browser
+
+This project is a part of Udemy Stephen Grider Course.
